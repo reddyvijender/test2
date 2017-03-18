@@ -4,7 +4,7 @@
   <groupId>com.Myntra</groupId>
   <artifactId>Myntra</artifactId>
   <packaging>war</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>4.0.0</version>
   <name>Myntra</name>
   <url>http://maven.apache.org</url>
   <dependencies>
